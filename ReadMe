@@ -1,2 +1,3 @@
-1. Bash Script for AMDGPU takes in argument for brightness value, changes config file and sets new brightness value in arch-linux 
-2. Sample xinitrc file for Xorg that has xsetroot for currenty battery value and time remaining, uptime, machine usage, and ram available 
+1. Bash Script for *AMDGPU* takes in argument for brightness value, changes config file and sets new brightness value in arch-linux 
+2. Sample *xinitrc* file for Xorg that has xsetroot for currenty battery value and time remaining, uptime, machine usage, and ram available. Using with dwm, picom and nitrogen for wallpaper
+
