@@ -1,3 +1,4 @@
 1. Bash Script for *AMDGPU* takes in argument for brightness value, changes config file and sets new brightness value in arch-linux 
 2. Sample *xinitrc* file for Xorg that has xsetroot for currenty battery value and time remaining, uptime, machine usage, and ram available. Using with dwm, picom and nitrogen for wallpaper
 3. Sample PulseAudio config file preset for high-quality audio (can be copied to /etc/pulse/daemon.conf)
+4. Git parse function to show current active branch in a particular folder in the terminal 
